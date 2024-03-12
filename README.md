@@ -4,8 +4,13 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=woosolkim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false" height="160" alt="languages graph"  />
 
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  
 
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=woosolkim&theme=one-dark&radius=12&area=true&hide_title=true&bg_color=000000&color=eeeeee&line=FB8C00&point=3078C6" height="250" alt="activity-graph graph"  />
+  <img width="740" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 
