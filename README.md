@@ -48,14 +48,11 @@
 
 
 <div align="center">
-  <img align="top" height="300" src="https://imagedelivery.net/WN97BdzLVKaS9hBULE5dag/c5d8d842-1125-44da-c623-7f029194fc00/1200"  />
+  <img align="top" height="400" src="https://imagedelivery.net/WN97BdzLVKaS9hBULE5dag/c5d8d842-1125-44da-c623-7f029194fc00/1200"  />
   <a href="https://open.spotify.com/user/31oulxypxcngik4d74nnndmhrvma">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31oulxypxcngik4d74nnndmhrvma&count=8&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31oulxypxcngik4d74nnndmhrvma&count=6&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
-
-
-#### woosol2da@gmail.com
 
 </div>
 
