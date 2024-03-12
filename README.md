@@ -1,6 +1,4 @@
-<h2 align="center">Kim</h2>
 
-###
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=woosolkim&theme=one-dark&radius=12&area=true&hide_title=true&bg_color=000000&color=eeeeee&line=FB8C00&point=3078C6" height="200" alt="activity-graph graph"  />
   
@@ -35,9 +33,9 @@
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
 </div>
 
-
 <div align="right">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    
   <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
 </div>
 
@@ -54,7 +52,7 @@
 </div>
 
 
-
+#### woosol2da@gmail.com
 
 </div>
 
