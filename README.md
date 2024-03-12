@@ -6,7 +6,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=woosolkim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false" height="200" alt="languages graph"  />
 
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
