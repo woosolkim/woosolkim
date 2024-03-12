@@ -1,10 +1,8 @@
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=woosolkim&theme=one-dark&radius=12&area=true&hide_title=true&bg_color=000000&color=eeeeee&line=FB8C00&point=3078C6" height="200" alt="activity-graph graph"  />
+<div align="center"> 
+  <img src="https://streak-stats.demolab.com?user=woosolkim&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=12&date_format=M%20j%5B,%20Y%5D" height="160" alt="streak graph"  />
   
-  <img src="https://streak-stats.demolab.com?user=woosolkim&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=12&date_format=M%20j%5B,%20Y%5D" height="200" alt="streak graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=woosolkim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=woosolkim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=false" height="160" alt="languages graph"  />
 
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
