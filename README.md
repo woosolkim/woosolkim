@@ -10,7 +10,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=woosolkim&theme=one-dark&radius=12&area=true&hide_title=true&bg_color=000000&color=eeeeee&line=FB8C00&point=3078C6" height="250" alt="activity-graph graph"  />
-  <img width="740" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 
@@ -37,24 +36,20 @@
 </div>
 
 <div align="right">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-    
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+    <a href="mailto:losoowmik@gmail.com">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    </a>
+    <a href="https://woosolkim.com" target="_blank">
+      <img 
+        src="https://img.shields.io/static/v1?message=Blog&logo=blogger&label=&color=0275d8&logoColor=white&labelColor=&style=for-the-badge" 
+        height="35" 
+        alt="blog logo" 
+      />
+    </a>
 </div>
 
----
-
-###
 
 
-<div align="center">
-<!--   <img align="top" height="400" src="https://imagedelivery.net/WN97BdzLVKaS9hBULE5dag/c5d8d842-1125-44da-c623-7f029194fc00/1200"  /> -->
-  <a href="https://open.spotify.com/user/31mavycletmii46xsy4kwdpdkgiu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mavycletmii46xsy4kwdpdkgiu&count=6&unique=true&width=900" alt="Spotify recently played"  />
-  </a>
-</div>
-
-</div>
 
 
 
